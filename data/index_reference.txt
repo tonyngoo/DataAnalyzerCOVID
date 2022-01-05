@@ -1,0 +1,61 @@
+Dataset1 Raw File Indices
+----------------------
+index 1: Accurate episode date
+index 5: Age
+index 6: Gender
+index 9: outbreak related
+index 10: PHU
+
+
+Indices considered, Per Question
+----------------------
+Question 1:
+  - index 0: PHU
+  - index 1: Gender
+  - checks for outbreak, does not print
+Question 2:
+  - index 0: PHU
+  - index 1: Age
+Question 3:
+  - index 0: Accurate episode date
+Question 4:
+  - index 0: Accurate episode date
+
+
+PHU CODES (34 PHUs)
+---------------
+Reporting_PHU_ID,Reporting_PHU
+2226,Algoma Public Health Unit
+2227,Brant County Health Unit
+2230,Durham Region Health Department
+2233,Grey Bruce Health Unit
+2234,Haldimand-Norfolk Health Unit
+2235,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+2236,Halton Region Health Department
+2237,Hamilton Public Health Services
+2238,Hastings and Prince Edward Counties Health Unit
+2240,Chatham-Kent Health Unit
+2241,"Kingston, Frontenac and Lennox & Addington Public Health"
+2242,Lambton Public Health
+2243,"Leeds, Grenville and Lanark District Health Unit"
+2244,Middlesex-London Health Unit
+2246,Niagara Region Public Health Department
+2247,North Bay Parry Sound District Health Unit
+2249,Northwestern Health Unit
+2251,Ottawa Public Health
+2253,Peel Public Health
+2255,Peterborough Public Health
+2256,Porcupine Health Unit
+2257,Renfrew County and District Health Unit
+2258,Eastern Ontario Health Unit
+2260,Simcoe Muskoka District Health Unit
+2261,Sudbury & District Health Unit
+2262,Thunder Bay District Health Unit
+2263,Timiskaming Health Unit
+2265,"Region of Waterloo, Public Health"
+2266,Wellington-Dufferin-Guelph Public Health
+2268,Windsor-Essex County Health Unit
+2270,York Region Public Health Services
+3895,Toronto Public Health
+4913,Southwestern Public Health
+5183,Huron Perth District Health Unit

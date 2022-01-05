@@ -1,0 +1,15 @@
+Original File Indices
+----------------------
+index 3: reported date
+index 5: Age
+index 6: Gender
+index 9: outbreak related
+index 10: PHU
+
+Preprocessed File Indices
+----------------------
+index 0: reported date (3)
+index 1: PHU (10)
+index 2: Gender (6)
+index 3: Age (5)
+index 4: Outbreak related (9)
